@@ -6,6 +6,6 @@
     <title>Segunda prueba</title>
 </head>
 <body>
-    <div> Prueba de Git y GitHub</div>
+    <div> Prueba de control de versiones </div>
 </body>
 </html>
