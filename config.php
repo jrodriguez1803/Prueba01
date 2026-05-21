@@ -3,7 +3,7 @@ session_start();
 
 define('DB_HOST', 'localhost');
 define('DB_PORT', '5432');
-define('DB_NAME', 'proyecto_prueba'); 
+define('DB_NAME', 'proyecto_prueba'); // prueba de git
 define('DB_USER', 'postgres');
 define('DB_PASS', 'pgmore2019');
 
